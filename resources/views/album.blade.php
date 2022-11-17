@@ -5,7 +5,8 @@
 
 <style>
     body {
-        background: url('../../../assets/img/background-1.png');
+        /*         /*         background: url('assets/img/background-2.png'); */
+        background-color: #9B3C94;
         background-position: center;
         background-size: 100vh;
         background-repeat: no-repeat;
@@ -30,13 +31,13 @@
     }
 
     .foto p {
-        color: gray;
+        color: #545454;
         background: white;
         width: 250px;
+        font-weight: 700;
         margin: 0.5rem;
         text-align: center;
         border-radius: 5px;
-        border: gray 1px solid;
     }
 
     .note h1 {
@@ -55,10 +56,10 @@
     }
 
     .box img {
-        border-radius: 8px;
         margin-top: 1rem;
-        height: 110px;
-        width: auto;
+        height: 95px;
+        border-radius: 55px;
+        width: 95px;
     }
 
     .box h1 {
@@ -66,6 +67,7 @@
         font-size: 18px;
         font-weight: bold;
         text-transform: uppercase;
+        color: white;
     }
 </style>
 

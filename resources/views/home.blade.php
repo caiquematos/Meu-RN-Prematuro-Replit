@@ -5,8 +5,9 @@
 
 <style>
     body {
-/*         background: url('assets/img/background-1.png'); */
+        /*         /*         background: url('assets/img/background-1.png'); */
         background-color: #9B3C94;
+        */ background-color: #9B3C94;
         background-position: center;
         background-size: 100vh;
         background-repeat: no-repeat;
@@ -33,8 +34,9 @@
         width: 102px;
         height: 33px;
         display: flex;
-/*         color: #666; */
-        color:white;
+        /*          /*         color: #666; */
+        color: white;
+        */ color: white;
         padding: 1px 0px;
         font-size: 11px;
         line-height: 11px;

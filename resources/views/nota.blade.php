@@ -5,7 +5,8 @@
 
 <style>
     body {
-        background: url('../../../assets/img/background-1.png');
+        /*         /*         background: url('assets/img/background-2.png'); */
+        background-color: #9B3C94;
         background-position: center;
         background-size: 100vh;
         background-repeat: no-repeat;
@@ -39,10 +40,11 @@
     }
 
     .box img {
-        border-radius: 8px;
         margin-top: 1rem;
-        height: 110px;
-        width: auto;
+        height: 95px;
+        object-fit: cover;
+        border-radius: 55px;
+        width: 95px;
     }
 
     .box h1 {
@@ -50,6 +52,7 @@
         font-size: 18px;
         font-weight: bold;
         text-transform: uppercase;
+        color: white;
     }
 </style>
 

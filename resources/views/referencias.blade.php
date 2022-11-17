@@ -6,7 +6,8 @@
 
 <style>
     body {
-        background: url('assets/img/background-2.png');
+        /*         /*         background: url('assets/img/background-2.png'); */
+        background-color: #9B3C94;
         background-position: center;
         background-size: 100vh;
         background-repeat: no-repeat;
@@ -42,9 +43,9 @@
 
     .box img {
         margin-top: 1rem;
-        height: 110px;
-        border-radius: 8px;
-        width: auto;
+        height: 95px;
+        border-radius: 55px;
+        width: 95px;
     }
 
     .box h1 {
@@ -52,6 +53,7 @@
         font-size: 18px;
         font-weight: bold;
         text-transform: uppercase;
+        color: white;
     }
 </style>
 

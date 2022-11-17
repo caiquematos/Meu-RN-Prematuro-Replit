@@ -5,7 +5,8 @@
 
 <style>
     body {
-        background: url('assets/img/background-1.png');
+        /*         background: url('assets/img/background-1.png'); */
+        background-color: #9B3C94;
         background-position: center;
         background-size: 100vh;
         background-repeat: no-repeat;
@@ -20,7 +21,8 @@
         text-align: center;
         margin: 1rem;
         margin-bottom: 0px;
-        color: #555353;
+        /*         color: #555353; */
+        color: white;
         font-size: larger;
         text-transform: uppercase;
         font-weight: 700;
@@ -43,7 +45,8 @@
         width: 102px;
         height: 44px;
         display: flex;
-        color: #666;
+        /*         color: #666; */
+        color: white;
         padding: 1px 0px;
         font-size: 11px;
         line-height: 11px;
@@ -58,9 +61,10 @@
         width: 200px;
         margin: auto;
         align-self: center;
-        color: white;
-        background: #9b3c94;
+        background: white;
+        color: #9b3c94;
         border-radius: 25px;
+        font-weight: 600;
     }
 </style>
 
