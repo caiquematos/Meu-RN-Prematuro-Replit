@@ -79,19 +79,19 @@
                         aria-describedby="basic-addon1">
                 </div>
 
-                <label>idade gestacional corrigida</label>
                 <div class="input-group mb-3">
-                    <input type="date" class="form-control" placeholder="data de nascimento" aria-label="Username"
+                    <input id="idade-gestacional" type="number" class="form-control"
+                        placeholder="idade gestacional de nascimento" aria-label="Username"
                         aria-describedby="basic-addon1">
                 </div>
 
                 <div class="input-group mb-3">
-                    <input id="idade-gestacional" type="text" class="form-control"
+                    <input id="idade-gestacional" type="number" class="form-control"
                         placeholder="idade gestacional corrigida" aria-label="Username" aria-describedby="basic-addon1">
                 </div>
 
                 <div class="input-group mb-3">
-                    <input type="text" class="form-control" placeholder="peso" aria-label="Username"
+                    <input type="number" class="form-control" placeholder="peso (gramas)" aria-label="Username"
                         aria-describedby="basic-addon1">
                 </div>
 

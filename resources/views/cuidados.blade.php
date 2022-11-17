@@ -5,7 +5,8 @@
 
 <style>
     body {
-        background: url('../assets/img/background-2.png');
+        /*         background: url('assets/img/background-2.png'); */
+        background-color: #9B3C94;
         background-position: center;
         background-size: 100vh;
         background-repeat: no-repeat;
@@ -131,7 +132,7 @@
                 <div class="carousel-item" data-bs-interval="30000">
                     <div class="content d-flex w-100 h-100">
                         <img src="{{ url('assets/img/baby-skin.png') }}" width="95px" alt="ícone banho">
-                        <h1>Pele do bebê</h1>
+                        <h1>Cuidados com a pele</h1>
                         <div class="text-box">
                             <p style="color:black;">A pele do seu bebê é extremamente sensível e deve ser um ponto de
                                 atenção, pois auxilia a recuperação e manutenção da saúde e previne doenças; desta
@@ -183,7 +184,8 @@
                         <img src="{{ url('assets/img/video.png') }}" width="95px" alt="ícone banho">
                         <h1>Playlist</h1>
                         <div class="text-box">
-                            <iframe width="100%" height="315" src="https://www.youtube.com/embed/0nL3hojYCqk"
+                            <iframe width="100%" height="315"
+                                src="https://www.youtube.com/embed/videoseries?list=PLn1I4TG9kMBmrabMD793oNYOrQw9Mnzuv"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen></iframe>

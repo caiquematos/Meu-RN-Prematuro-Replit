@@ -97,7 +97,7 @@
                     <img src="{{ url('assets/img/baby-skin.png') }}" class="img-thumbnail rounded mx-auto d-block"
                         alt="cuidados">
                 </div>
-                <p class="title">Pele do bebê</p>
+                <p class="title">Cuidados com a pele</p>
                 <a class="stretched-link" href="{{ route('cuidados', ['index' => 3]) }}"></a>
             </div>
             <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column">

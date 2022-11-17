@@ -5,7 +5,7 @@
 
 <style>
     body {
-         /*         background: url('assets/img/background-2.png'); */
+        /*         background: url('assets/img/background-2.png'); */
         background-color: #9B3C94;
         background-position: center;
         background-size: 100vh;
@@ -134,7 +134,8 @@
                         <img src="{{ url('assets/img/video.png') }}" width="95px" alt="ícone banho">
                         <h1>Playlist</h1>
                         <div class="text-box">
-                            <iframe width="100%" height="315" src="https://www.youtube.com/embed/CHWmsS5tVuo"
+                            <iframe width="100%" height="315"
+                                src="https://www.youtube.com/embed/videoseries?list=PLn1I4TG9kMBmrabMD793oNYOrQw9Mnzuv"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen></iframe>
@@ -147,8 +148,7 @@
                         <img src="{{ url('assets/img/note.png') }}" width="95px" alt="ícone banho">
                         <h1>Anotações</h1>
                         <div class="text-box">
-                            <p style="color:black;">Adicione observações sobre a posição canguru para apresentar na
-                                consulta</p>
+                            <p style="color:black;">Adicione observações sobre a posição canguru</p>
                             <textarea name="anotacoes-canguru" cols="30" rows="9"></textarea>
                         </div>
                     </div>
