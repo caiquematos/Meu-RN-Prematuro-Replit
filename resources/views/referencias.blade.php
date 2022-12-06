@@ -33,6 +33,7 @@
     .referencias p {
         font-size: 14px;
         line-height: 14px;
+        overflow-wrap: anywhere;
     }
 
     .box {
@@ -62,7 +63,7 @@
     @include('build.header')
 
     <!-- main content -->
-    <section>
+    <section class="menu-config">
 
         <div class="row justify-content-center">
             <div class="col justify-content-center align-items-center d-flex">
@@ -273,6 +274,14 @@
                         – Ago 2022, edição 31. Disponível em:<
                             http://www.unirio.br/comunicacaosocial/arquivos/em-foco/EmFoco08_22.pdf>. Acesso em<06 Set
                                 2022>.
+                    </p>
+                    <p>YOUTUBE, Playlist criada para uso no aplicativo "Meu RN Prematuro", desenvolvida com a utilização
+                        de vídeos disponibilizados de forma gratuita e acesso aberto na plataforma do Youtube através do
+                        canal <b>Canções de Birdland</b>. Disponível em:
+                        &lt;https://www.youtube.com/watch?v=udThrlwrTZk&list=PLn1I4TG9kMBmrabMD793oNYOrQw9Mnzuv&gt;.
+                        Acesso
+                        em
+                        &lt;09 Nov 2022&gt;
                     </p>
                 </div>
             </div>

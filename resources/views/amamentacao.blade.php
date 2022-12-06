@@ -222,7 +222,7 @@
                 </div>
                 <div class="carousel-item">
                     <div class="content d-flex w-100 h-100">
-                        <img src="{{ url('assets/img/mamadeira.jpg') }}" width="95px" alt="ícone banho">
+                        <img src="{{ url('assets/img/milk.png') }}" width="95px" alt="ícone banho">
                         <h1 style="font-size:1.1rem">Doe leite materno</h1>
                         <div class="text-box">
                             <p style="color:black;">Lista de alguns locais onde é possível realizar doação de leite

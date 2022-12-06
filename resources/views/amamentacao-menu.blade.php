@@ -111,7 +111,7 @@
             </div>
             <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column">
                 <div class="box">
-                    <img src="{{ url('assets/img/mamadeira.jpg') }}" class="img-thumbnail rounded mx-auto d-block"
+                    <img src="{{ url('assets/img/milk.png') }}" class="img-thumbnail rounded mx-auto d-block"
                         alt="amamentacao">
                 </div>
                 <p class="title">Doe leite materno</p>

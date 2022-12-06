@@ -9,6 +9,7 @@
         position: absolute;
         bottom: 0px;
         width: 100%;
+        background-color: #9b3c94;
     }
 
     #footer {
@@ -29,8 +30,8 @@
     }
 
     #footer li .active {
-/*         color: #9B3C94 !important; */
-      color: white !important;
+        /*         color: #9B3C94 !important; */
+        color: white !important;
     }
 </style>
 

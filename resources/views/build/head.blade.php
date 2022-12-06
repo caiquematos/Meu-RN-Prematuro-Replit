@@ -20,6 +20,13 @@
          body {
              font-family: 'Nunito', sans-serif;
              background-color: #f7d7ee;
+             height: 100vh;
+         }
+
+         #main,
+         .menu-config {
+             height: calc(100vh - 140px) !important;
+             overflow-y: scroll !important;
          }
      </style>
  </head>

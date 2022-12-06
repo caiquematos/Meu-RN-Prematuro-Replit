@@ -18,6 +18,14 @@ use Illuminate\Support\Facades\Route;
 Route::resource('/users', NotasController::class);
 Route::resource('/notas', NotasController::class);
 
+Route::get('/perfil', function () {
+    return view('perfil')->with('page', 'perfil');
+})->name('perfil');
+
+Route::get('/creditos', function () {
+    return view('creditos')->with('page', 'creditos');
+})->name('creditos');
+
 Route::get('/referencias', function () {
     return view('referencias')->with('page', 'referencias');
 })->name('referencias');

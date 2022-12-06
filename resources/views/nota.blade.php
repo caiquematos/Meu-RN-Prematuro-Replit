@@ -61,7 +61,7 @@
     @include('build.header')
 
     <!-- main content -->
-    <section>
+    <section class="menu-config">
 
         <div class="row justify-content-center">
             <div class="col justify-content-center align-items-center d-flex">

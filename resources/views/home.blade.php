@@ -5,9 +5,8 @@
 
 <style>
     body {
-        /*         /*         background: url('assets/img/background-1.png'); */
+        /*background: url('assets/img/background-1.png'); */
         background-color: #9B3C94;
-        */ background-color: #9B3C94;
         background-position: center;
         background-size: 100vh;
         background-repeat: no-repeat;
@@ -53,7 +52,7 @@
     @include('build.header')
 
     <!-- main content -->
-    <section class="wrapper" style="display: none;">
+    <section class="wrapper menu-config" style="display: none;">
         <div class=" row p-3">
             <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column">
                 <div class="box">
@@ -125,7 +124,15 @@
                         alt="Colo">
                 </div>
                 <p class="title">Perfil</p>
-                <a class="stretched-link" href="{{ route('referencias') }}"></a>
+                <a class="stretched-link" href="{{ route('perfil') }}"></a>
+            </div>
+            <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column">
+                <div class="box">
+                    <img src="{{ url('assets/img/creditos.png') }}" class="img-thumbnail rounded mx-auto d-block"
+                        alt="Colo">
+                </div>
+                <p class="title">Créditos</p>
+                <a class="stretched-link" href="{{ route('creditos') }}"></a>
             </div>
         </div>
     </section>

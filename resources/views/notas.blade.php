@@ -35,7 +35,7 @@
     @include('build.header')
 
     <!-- main content -->
-    <section>
+    <section class="menu-config">
 
         <div class="row">
             <div class="col-12">

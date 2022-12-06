@@ -3,6 +3,7 @@
 
 @include('build.head')
 
+
 <style>
     body {
         /*         /*         background: url('assets/img/background-2.png'); */
@@ -12,41 +13,27 @@
         background-repeat: no-repeat;
     }
 
-    section {
+    .referencias {
+        margin: 1rem;
+        margin-top: 0rem;
+        margin-bottom: 0px;
+        background-color: #F5F5F5;
+        text-align: justify;
+        padding: 1rem;
+        border-radius: 5px;
+        height: 48vh;
         overflow-y: scroll;
-        height: 79vh;
     }
 
-    .foto {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin-bottom: 1rem;
-    }
-
-
-    .foto img {
-        width: 250px;
-        border-radius: 5px;
-    }
-
-    .foto p {
-        color: #545454;
-        background: white;
-        width: 250px;
-        font-weight: 700;
-        margin: 0.5rem;
-        text-align: center;
-        border-radius: 5px;
-    }
-
-    .note h1 {
+    .referencias h1 {
         font-size: 18px;
         font-weight: bold;
     }
 
-    .note p {
+    .referencias p {
         font-size: 14px;
+        line-height: 14px;
+        overflow-wrap: anywhere;
     }
 
     .box {
@@ -76,34 +63,23 @@
     @include('build.header')
 
     <!-- main content -->
-    <section>
+    <section class="menu-config">
 
         <div class="row justify-content-center">
             <div class="col justify-content-center align-items-center d-flex">
                 <div class="box m-3">
-                    <img src="{{ url('assets/img/album.png') }}" width="95px" alt="ícone banho">
-                    <h1>Álbum</h1>
+                    <img src="{{ url('assets/img/creditos.png') }}" width="95px" alt="ícone banho">
+                    <h1>Créditos</h1>
                 </div>
             </div>
         </div>
 
         <div class="row">
             <div class="col-12">
-                <div class="foto">
-                    <img src="{{ url('assets/img/picture.png') }}" alt="1a foto">
-                    <p>1<sup>a</sup> foto</p>
-                </div>
-            </div>
-            <div class="col-12">
-                <div class="foto">
-                    <img src="{{ url('assets/img/picture.png') }}" alt="1a foto">
-                    <p>1<sup>a</sup> vez no colo</p>
-                </div>
-            </div>
-            <div class="col-12">
-                <div class="foto">
-                    <img src="{{ url('assets/img/picture.png') }}" alt="1a foto">
-                    <p>foto da alta hospitalar</p>
+                <div class="referencias">
+                    <p>Texto crédito 1</p>
+                    <p>Texto crédito 2</p>
+                    <p>Texto crédito 3</p>
                 </div>
             </div>
         </div>
