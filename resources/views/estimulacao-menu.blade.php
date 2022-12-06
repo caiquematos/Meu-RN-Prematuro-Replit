@@ -74,7 +74,7 @@
     @include('build.header')
 
     <!-- main content -->
-    <section class="wrapper" style="display: none;">
+    <section class="wrapper menu-config py-3" style="display: none;">
         <h1>Estimulação neuropsicomotora</h1>
         <div class="row p-3 m-3 mb-0">
             <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column">

@@ -23,10 +23,16 @@
              height: 100vh;
          }
 
+         body.modal-open {
+             overflow: hidden;
+             position: fixed;
+         }
+
          #main,
          .menu-config {
              height: calc(100vh - 140px) !important;
              overflow-y: scroll !important;
+             overflow-x: hidden;
          }
      </style>
  </head>
