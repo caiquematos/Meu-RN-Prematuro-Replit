@@ -114,6 +114,6 @@ Route::get('/login', function () {
 })->name('login');
 
 Route::get('/', function () {
-    return view('home')->with('page', 'home');
+    return view('login');
     // return view('welcome');
 })->name('welcome');
