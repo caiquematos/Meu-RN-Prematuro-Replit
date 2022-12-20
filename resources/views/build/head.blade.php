@@ -33,6 +33,7 @@
              height: calc(100vh - 140px) !important;
              overflow-y: scroll !important;
              overflow-x: hidden;
+             padding-bottom: 5rem !important;
          }
      </style>
  </head>

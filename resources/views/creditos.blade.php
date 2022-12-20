@@ -77,9 +77,22 @@
         <div class="row">
             <div class="col-12">
                 <div class="referencias">
-                    <p>Texto crédito 1</p>
-                    <p>Texto crédito 2</p>
-                    <p>Texto crédito 3</p>
+                    <p><b>Thaís Emanuele da Conceição</b> – Enfa Esp. Neonatologia responsável pela elaboração de todo
+                        material
+                        técnico para a construção do aplicativo, estruturação dos temas e itens de composição da
+                        aplicação. Trata-se de um Projeto de Dissertação de Mestrado, desenvolvido na Escola de
+                        Enfermagem Anna Nery da Universidade Federal do Rio de Janeiro.</p>
+                    <p><b>Maria Helena do Nascimento Souza</b> – Profa. Dra. responsável pela orientação em toda
+                        construção do
+                        material técnico para a estruturação e finalização do aplicativo.</p>
+                    <p><b>Canções de Birdland</b> – Os vídeos para a criação da playlist foram retirados o Canal no
+                        Youtube:
+                        https://www.youtube.com/c/songsofbird. Instagram: @songsofbirdland</p>
+                    <p><b>Caique Neiva Pires Matos</b> – Programador responsável pela consolidação e desenvolvimento do
+                        material tecnológico. E-mail: caiquepires91@gmail.com</p>
+                    <p><b>Freepik Company</b> – As imagens utilizadas na aplicação foram retiradas no site:
+                        https://www.freepikcompany.com. Trata-se de uma plataforma gratuita com recursos gráficos
+                        disponíveis para utilização e acesso livre.</p>
                 </div>
             </div>
         </div>

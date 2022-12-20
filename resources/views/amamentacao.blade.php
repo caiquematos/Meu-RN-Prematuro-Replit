@@ -99,7 +99,7 @@
                                 Traz muita tranquilidade<br>
                                 Pois com a amamentação<br>
                                 Se reduz a rejeição<br>
-                                Há um apego de verdade (OLIVEIRA et al, 2008).
+                                Há um apego de verdade (OLIVEIRA et al., 2008).
                             </p>
                             <p style="color:black;text-align:left;font-style:italic">
                                 O aleitamento materno<br>
@@ -108,7 +108,7 @@
                                 Garantiu outro doutor<br>
                                 Pra males do coração<br>
                                 O leite tem proteção<br>
-                                Quando adulto o nenê for (OLIVEIRA et al, 2008).
+                                Quando adulto o nenê for (OLIVEIRA et al., 2008).
                             </p>
                             <p style="color:black;text-align:left;font-style:italic">
                                 No aspecto psicológico<br>
@@ -117,7 +117,7 @@
                                 Algo de bom se firmou<br>
                                 Nutre o desenvolvimento<br>
                                 E o amadurecimento<br>
-                                Do bebê que a mãe gerou (OLIVEIRA et al, 2008).
+                                Do bebê que a mãe gerou (OLIVEIRA et al., 2008).
                             </p>
                             <p style="color:black;text-align:left;font-style:italic">
                                 Sempre que o nenê quiser<br>
@@ -126,7 +126,7 @@
                                 Os dois peitos devem dar<br>
                                 Quando a mama está no fim<br>
                                 O leite é mais gordo e assim<br>
-                                Mais peso ele vai ganhar (OLIVEIRA et al, 2008).
+                                Mais peso ele vai ganhar (OLIVEIRA et al., 2008).
                             </p>
                             <p style="color:black;text-align:left;font-style:italic">
                                 Sempre que o nenê quiser<br>
@@ -135,7 +135,7 @@
                                 Os dois peitos devem dar<br>
                                 Quando a mama está no fim<br>
                                 O leite é mais gordo e assim<br>
-                                Mais peso ele vai ganhar (OLIVEIRA et al, 2008).
+                                Mais peso ele vai ganhar (OLIVEIRA et al., 2008).
                             </p>
                         </div>
                     </div>

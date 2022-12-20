@@ -102,7 +102,7 @@
                 <p class="title">Estimulação <span>neuropsi<br>comotora</span></p>
                 <a class="stretched-link" href="{{ route('estimulacao-menu') }}"></a>
             </div>
-            <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column">
+            <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column d-none">
                 <div class="box">
                     <img src="{{ url('assets/img/album.png') }}" class="img-thumbnail rounded mx-auto d-block"
                         alt="Album">
@@ -118,7 +118,7 @@
                 <p class="title">Referências</p>
                 <a class="stretched-link" href="{{ route('referencias') }}"></a>
             </div>
-            <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column">
+            <div class="col-4 position-relative d-flex align-items-center justify-content-center flex-column d-none">
                 <div class="box">
                     <img src="{{ url('assets/img/colo.jpg') }}" class="img-thumbnail rounded mx-auto d-block"
                         alt="Colo">
